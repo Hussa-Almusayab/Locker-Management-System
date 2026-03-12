@@ -23,7 +23,7 @@ An automated full-stack reservation system designed to manage locker assignments
 ### 📥 Project Download & Access
 > **Note:** Due to the large size of the development environment files and packages, the complete project (including binaries and local database backups) is hosted on Google Drive for better accessibility.
 
-[**⬇️ Click Here to Download the Full Project (.rar)**](ضع_رابط_جوجل_درايف_هنا)
+[**⬇️ Click Here to Download the Full Project (.rar)**](https://drive.google.com/drive/folders/1ouwaOq_wzN9tgannzHI-eBwmwbBH0wao?usp=drive_link)
 
 ---
 
