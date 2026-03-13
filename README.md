@@ -1,5 +1,5 @@
 # 🛡️ Locker Management System
-![Locker Management System Banner](banner.png)
+![Locker Management System Banner](Locker Management System.png)
 
 ## 📖 Overview
 The **Locker Management System** is a professional web-based solution designed to streamline the process of locker assignment and tracking. This project was developed with a dual focus: **User Experience (UX)** for seamless interaction and **Cybersecurity** for data integrity and protection.
