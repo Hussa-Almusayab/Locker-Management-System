@@ -1,5 +1,5 @@
 # 🛡️ Locker Management System
-![Locker Management System Banner](banner.png)
+![Locker Management System Banner](Locker-Management-System.png)
 
 ## 🎓 Academic Context
 This project is a graduation requirement for my **Diploma in Computer Software**. It serves as a practical application of software engineering principles, database management, and secure coding practices.
