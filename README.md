@@ -10,12 +10,12 @@
 تم تطوير هذا المشروع بجهد مشترك من قبل المتدربات (مرتبة أبجدياً):
 1. **حصة المسيب** (Hussah Al-Musayab)
 2. **ريما البدر** (Rima Al-Badr)
-3. **زهراء المشعل** (Zahra Al-Mashal)
+3. **زهراء المشعل** (Zahra Al-Meshal)
 4. **شريفة العباد** (Sharifa Al-Abbad)
-5. **شهد بوقبيع** (Shahad Bu-Qubay)
+5. **شهد عدنان** (Shahad Adnan)
 6. **طيف اليامي** (Taif Alyami)
-7. **فاطمة الجبيلي** (Fatima Al-Jubayli)
-8. **وعد أحمد** (Waad Ahmed)
+7. **فاطمة الجبيلي** (Fatima Al-Jubaili)
+8. **وعد العلي** (Waad Alali) 
 
 **تحت إشراف الأستاذة:** زينب حسين الحسين
 
