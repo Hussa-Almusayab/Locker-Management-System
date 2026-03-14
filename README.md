@@ -9,7 +9,7 @@
 ## 👥 فريق العمل (Development Team)
 تم تطوير هذا المشروع بجهد مشترك من قبل المتدربات (مرتبة أبجدياً):
 1. **حصة المسيب** (Hussah Al-Musayab)
-2. **ريما البدر** (Rima Al-Badr)
+2. **ريما البدر** (Rema Al-Badr)
 3. **زهراء المشعل** (Zahra Al-Meshal)
 4. **شريفة العباد** (Sharifa Al-Abbad)
 5. **شهد عدنان** (Shahad Adnan)
