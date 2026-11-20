@@ -37,7 +37,7 @@ A secure, full-stack automated locker management web application developed as a 
 
 ## 👥 فريق العمل (Development Team)
 تم تطوير هذا المشروع بجهد مشترك من قبل المتدربات (مرتبة أبجدياً):
-1. **حصة المسيب** (Hussa Almusayab) — *Full-Stack Development & Security Integration*
+1. **حصه المسيب** (Hussa Almusayab) — *Full-Stack Development & Security Integration*
 2. **ريما البدر** (Rema Al-Badr)
 3. **زهراء المشعل** (Zahra Al-Meshal)
 4. **شريفة العباد** (Sharifa Al-Abbad)
